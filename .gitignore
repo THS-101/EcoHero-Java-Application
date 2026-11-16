@@ -1,0 +1,15 @@
+
+# Java compiled files
+*.class
+
+# Application-generated data
+scores.txt
+
+# macOS files
+.DS_Store
+__MACOSX/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
